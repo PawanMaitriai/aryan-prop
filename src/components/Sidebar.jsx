@@ -48,7 +48,7 @@ const Sidebar = () => {
                     onClick={toggleSidebar}
                     className={`absolute top-2 right-2 w-[7.5%] h-[7.5%]  text-white transition-all`}
                 >
-                    <img src="/352467_arrow_left_icon.webp" alt="close" />
+                    <img src="/352467_arrow_left_icon.webp" alt="close-btn" />
                 </button>
 
 
